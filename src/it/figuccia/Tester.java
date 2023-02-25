@@ -1,4 +1,5 @@
 package it.figuccia;
+@SuppressWarnings("deprecation")
 
 public class Tester {
     public static void main(String[] args) {
